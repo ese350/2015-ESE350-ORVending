@@ -1,5 +1,5 @@
-OR Vending Machine
-==================
+2015-ESE350-ORVending
+=====================
 
 This is the git repo for the Operating Room vending machine for ESE350 Spring 2015.
 
