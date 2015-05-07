@@ -12,3 +12,5 @@ https://developer.mbed.org/users/syundo0730/code/Adafruit-PWM-Servo-Driver/
 
 TextLCD is a library to run i2c LCD screens. Here the library page:
 https://developer.mbed.org/users/wim/code/TextLCD/
+
+The link to our blog is: http://orvending350.blogspot.com/
