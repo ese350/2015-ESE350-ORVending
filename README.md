@@ -1,5 +1,8 @@
 2015-ESE350-ORVending
 =====================
+Billy Clarke 
+Augustus Wynn
+
 
 This is the git repo for the Operating Room vending machine for ESE350 Spring 2015.
 
